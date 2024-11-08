@@ -1,10 +1,6 @@
 # Customer Complaint Dashboard
-<b>video demonstration</b><br>
-![video](/Screenshots/demonstration.gif)
-<br>
+<img width="627" alt="Screenshot" src="https://github.com/user-attachments/assets/7c7af84d-2379-4f5e-b19e-95ce823cc051">
 
-<b>screenshot</b><br>
-<img src="/Screenshots/Screenshot.png" alt="Image Description" width="600" height="400">
 
 ## Introduction
 
